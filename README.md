@@ -1,7 +1,6 @@
 # Website de controle de estoque
 
 * Website com funções de controle de estoque de uma loja de celulares.
-<br>
 - Cadastro de produtos<br>
 - Alteração de produtos<br>
 - Exclusão de produtos<br>
