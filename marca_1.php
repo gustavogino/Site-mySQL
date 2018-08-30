@@ -2,7 +2,7 @@
 		<head>
 		</head>
 
-		<body <body background="img/background.jpg" bgproperties="fixed">
+		<body background="img/background.jpg" bgproperties="fixed">
 		
 		<center><a href="index.php"><img src="img/logo.png" height="130" width="400"></a></h1>
 <br> <br> <BR>
